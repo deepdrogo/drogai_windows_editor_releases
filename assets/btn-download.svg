@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248" height="44" role="img" aria-label="Download for Windows">
+  <rect width="248" height="44" rx="10" fill="#0a0a0a"/>
+  <rect x="0.75" y="0.75" width="246.5" height="42.5" rx="9.25" fill="none" stroke="#404040"/>
+  <text x="124" y="28" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Download for Windows</text>
+</svg>
